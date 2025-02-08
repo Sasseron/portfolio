@@ -1,23 +1,23 @@
 body {
-    max-width: 2000 px; /* Reduce the overall width of the content */
+    max-width: 3000px; /* Reduce the overall width of the content */
     margin: 0 auto;   /* Center the content on the page */
-    padding: 20 px;    /* Add some padding to the sides */
+    padding: 20px;    /* Add some padding to the sides */
 }
 
-/* Indent text for better readability */
 .container {
-    margin-left: 50 ; /* Indent the text from the left */
-    margin-right: 50 ; /* Indent the text from the right */
+    max-width: 100%;
+    margin-left: 50px ; /* Indent the text from the left */
+    margin-right: 20px ; /* Indent the text from the right */
 }
 
 /* Style headings and paragraphs for better spacing */
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 1.5 em ;
-    margin-bottom: 0.5 em ;
+    margin-top: 1.5em ;
+    margin-bottom: 0.5em ;
 }
 
 p {
-    margin-bottom: 1 em ;
+    margin-bottom: 1em ;
     line-height: 1.6;
 }
 

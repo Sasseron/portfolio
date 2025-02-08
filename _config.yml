@@ -9,10 +9,10 @@ description: Quality and Continuous Improvement Specialist | AI & Data-Driven Pr
 url: "https://github.com/Sasseron"  
 #baseurl: ""  
 theme: jekyll-theme-minimal
-#plugins:
-#  - jekyll-remote-theme
-#stylesheets:
-#  - /assets/styles.css
+plugins:
+  - jekyll-remote-theme
+stylesheets:
+  - /assets/styles.css
 show_downloads: true
 
 github_username: Sasseron

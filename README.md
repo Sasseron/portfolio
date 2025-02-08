@@ -1,3 +1,4 @@
+<div class="container">
 
 Expert in Lean Six Sigma methodologies, integrating AI/ML models to deliver data-driven insights and optimize business operations. 
 Passionate about leveraging technology to drive efficiency, innovation, and sustainable growth.

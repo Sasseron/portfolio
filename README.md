@@ -1,29 +1,40 @@
 
-## Continuous Improvement Specialist  
+## Operations Excellence Specialist | AI & Data-Driven Insights  
 
-Expert in integrating AI models and Lean Six Sigma methodologies to deliver measurable process improvements while ensuring compliance with quality standards. Passionate about leveraging data-driven insights to optimize manufacturing and business operations. 
+Expert in Lean Six Sigma methodologies, integrating AI/ML models to deliver data-driven insights and optimize business operations. 
+Passionate about leveraging technology to drive efficiency, innovation, and sustainable growth.
 
-✔ Enhancing operational efficiency  
-✔ Reducing costs  
-✔ Driving customer satisfaction
+---
+
+## Experience  
+### **Artificial Intelligence Intern** – [![LCI Education](https://img.shields.io/badge/LCI_Education-000000?logo=lcieducation&logoColor=white)](https://www.lcieducation.com/) | *May 2024 – Aug 2024*  
+- Built AI-driven chatbots using **Copilot Studio**, reducing workload and improving information retrieval efficiency.  
+- Trained teams on AI tools, driving adoption and optimizing workflows.  
+
+### **Process Improvement Specialist** – [![Escouade Numérique](https://img.shields.io/badge/Escouade_Numérique-0078D7?logo=windows&logoColor=white)](https://www.escouadenumerique.quebec/) | *2023 – 2024*  
+- Helped SMEs optimize processes and boost profits through digitization and best practices.  
+- Published articles on leveraging technology for operational excellence.  
+
+### **Supplier Quality Engineer – Audit** – [![Ford Motor Company](https://img.shields.io/badge/Ford_Motor_Company-00274C?logo=ford&logoColor=white)](https://www.ford.com/) | *2016 – 2021*  
+- Improved supplier quality compliance by **50%**, earning the **Ford Q1 Award**.  
+- Delivered a **20% cost reduction** through Lean Manufacturing, recognized as the **Best 2020 Project in South America**.  
+
+### **Supplier Quality Engineer – Projects Black Belt** – [![Ford Motor Company](https://img.shields.io/badge/Ford_Motor_Company-00274C?logo=ford&logoColor=white)](https://www.ford.com/) | *2014 – 2016*  
+- Led Six Sigma projects, cutting customer complaints by **20%** and warranty costs by **30%**.  
+- Mentored teams to improve logistics and procurement processes.  
+
+### **New Programs Engineer** – [![Ford Motor Company](https://img.shields.io/badge/Ford_Motor_Company-00274C?logo=ford&logoColor=white)](https://www.ford.com/) | *2011 – 2014*  
+- Managed global vehicle launches, ensuring on-time delivery and risk mitigation.  
+- Recognized by **Ford EU** for ensuring seamless production at the Germany plant.    
 
 ---
 
 ## Education  
-- MBA - Project Management
-- BSc - Materials Engineering
-- Certificate - Artificial Intelligence
-- Certificate - Quality Management
+- **MBA** – Project Management  
+- **BSc** – Materials Engineering  
+- **Certificate** – Artificial Intelligence  
+- **Certificate** – Quality Management
  
----
-
-## Experience  
-- Artificial Intelligence Intern – LCI Education, Montreal, CA  
-- Process Improvement Specialist – Escouade Numérique, Montreal, CA  
-- Supplier Development Engineer – Ford Motor Company, Salvador, BR  
-- Supplier Quality Engineer – Ford Motor Company, Salvador, BR  
-- New Programs Engineer – Ford Motor Company, Salvador, BR  
-
 ---
 
 ## Key Projects  
@@ -32,7 +43,14 @@ Expert in integrating AI models and Lean Six Sigma methodologies to deliver meas
 Developed and published an article on AI’s role in manufacturing innovation, showcasing real-world applications of predictive analytics and optimization.
 Achieved 51% reduction in machine downtime by implementing AI-driven predictive maintenance.
 🔗[Publication](https://github.com/Sasseron/Maintenance_Optimization)  
- 
+
+---
+
+## Skills & Tools  
+- Lean Six Sigma Black Belt | PMI | Agile | Jira  
+- Statistical Analysis | MS365 | Copilot | Python | SQL | Power BI | Minitab  
+- Process Optimization | Value Stream Mapping | Risk Mitigation | Budgeting 
+
 ---
 
 ## Contact & Connect  
@@ -40,9 +58,5 @@ Achieved 51% reduction in machine downtime by implementing AI-driven predictive 
 📧 [Email](mailto:your-email@example.com)  
 📂 [GitHub Portfolio](https://github.com/Sasseron)  
 
----
 
-## Tech & Tools  
-🔹 Lean Six Sigma | AI & Machine Learning | Predictive Maintenance  
-🔹 Python | SQL | Power BI | Tableau | Jira  
-🔹 Process Optimization | Value Stream Mapping | Risk Mitigation
+

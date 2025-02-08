@@ -1,7 +1,7 @@
 body {
-    max-width: 1000; /* Reduce the overall width of the content */
+    max-width: 1200 px; /* Reduce the overall width of the content */
     margin: 0 auto;   /* Center the content on the page */
-    padding: 20 ;    /* Add some padding to the sides */
+    padding: 20 px;    /* Add some padding to the sides */
 }
 
 /* Indent text for better readability */
@@ -12,12 +12,12 @@ body {
 
 /* Style headings and paragraphs for better spacing */
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 1.5 ;
-    margin-bottom: 0.5 ;
+    margin-top: 1.5 em ;
+    margin-bottom: 0.5 em ;
 }
 
 p {
-    margin-bottom: 1 ;
+    margin-bottom: 1 em ;
     line-height: 1.6;
 }
 

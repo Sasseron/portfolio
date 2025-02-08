@@ -1,0 +1,33 @@
+/* Custom CSS for indented text and reduced margins */
+body {
+    max-width: 800px; /* Reduce the overall width of the content */
+    margin: 0 auto;   /* Center the content on the page */
+    padding: 20px;    /* Add some padding to the sides */
+}
+
+/* Indent text for better readability */
+.container {
+    margin-left: 50px; /* Indent the text from the left */
+    margin-right: 50px; /* Indent the text from the right */
+}
+
+/* Style headings and paragraphs for better spacing */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    margin-bottom: 1em;
+    line-height: 1.6;
+}
+
+/* Style links for better visibility */
+a {
+    color: #0366d6; /* GitHub's link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

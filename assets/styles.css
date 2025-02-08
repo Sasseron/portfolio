@@ -1,5 +1,5 @@
 body {
-    max-width: 1200 px; /* Reduce the overall width of the content */
+    max-width: 2000 px; /* Reduce the overall width of the content */
     margin: 0 auto;   /* Center the content on the page */
     padding: 20 px;    /* Add some padding to the sides */
 }

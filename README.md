@@ -1,10 +1,12 @@
 
-# Continuous Improvement Specialist  
+## Continuous Improvement Specialist  
 
-Expert in integrating AI models and Lean Six Sigma methodologies to deliver measurable process improvements while ensuring compliance with quality standards. Passionate about leveraging data-driven insights to optimize manufacturing and business operations.  
+**Expert in integrating AI models and Lean Six Sigma methodologies to deliver measurable process improvements while ensuring compliance with quality standards. Passionate about leveraging data-driven insights to optimize manufacturing and business operations.** 
+
 ✔ **Enhancing operational efficiency**  
 ✔ **Reducing costs**  
-✔ **Driving customer satisfaction**  
+✔ **Driving customer satisfaction**
+
 ---
 
 ## Education  
@@ -25,14 +27,10 @@ Expert in integrating AI models and Lean Six Sigma methodologies to deliver meas
 ## Key Projects  
 
 ### AI-Driven Manufacturing Insights – Article, *College LaSalle, 2023*  
-Developed and published an article on AI’s role in manufacturing innovation, showcasing real-world applications of predictive analytics and optimization.  
+Developed and published an article on AI’s role in manufacturing innovation, showcasing real-world applications of predictive analytics and optimization.
+Achieved 51% reduction in machine downtime by implementing AI-driven predictive maintenance.
 🔗[Publication](https://github.com/Sasseron/Maintenance_Optimization)  
-
-### XGBoost & Scheduling Algorithm for Manufacturing 4.0  
-✔ Achieved 51% reduction in machine downtime by implementing AI-driven predictive maintenance.  
-✔ Designed and applied XGBoost models to forecast equipment failures and optimize maintenance schedules.  
-✔ Developed a custom scheduling algorithm prioritizing tasks based on time sensitivity and operational impact.  
-✔ Improved predictive accuracy, reducing unplanned downtime and increasing production efficiency.  
+ 
 ---
 
 ## Contact & Connect  

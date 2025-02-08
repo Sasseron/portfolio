@@ -1,30 +1,20 @@
-title: Claudio Sasseron
+#title: Claudio Sasseron
 #logo:
 #description:
 #show_dowloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 title: Claudio Sasseron
 description: Quality and Continuous Improvement Specialist | AI & Data-Driven Process Optimization
-url: "https://github.com/Sasseron"  # Replace with your GitHub Pages URL if you have one
-baseurl: ""  # Leave empty if your site is at the root of the domain
-
-# Theme settings
+url: "https://github.com/Sasseron"  
+#baseurl: ""  
 theme: jekyll-theme-minimal
-
-# Optional: Add a logo (uncomment and replace with your logo path)
-# logo: /assets/logo.png
-
-# Optional: Show download buttons for your repositories
 show_downloads: true
 
-# Optional: Add social media links
 github_username: Sasseron
 linkedin_username: www.linkedin.com/in/claudio-sasseron
-  # Replace with your LinkedIn username
-email: claudio.sasseron@gmail.com  # Replace with your email
+email: claudio.sasseron@gmail.com 
 
-# Optional: Add a custom footer
 footer:
   message: "Let’s connect and collaborate!"
   links:

@@ -3,7 +3,7 @@ description: Quality and Continuous Improvement Specialist | AI & Data-Driven Pr
 url: "https://sasseron.github.io"  
 baseurl: ""  
 theme: jekyll-theme-minimal
-download: true
+show_downloads: true
 
 #remote_theme: jekyll-theme-minimal
 #plugins:
@@ -11,3 +11,20 @@ download: true
 #stylesheets:
 # - /assets/styles.css
 
+github_username: Sasseron
+linkedin_username: claudio-sasseron  # Replace with your LinkedIn username
+email: claudio.sasseron@gmail.com  # Replace with your email
+
+# Optional: Add a custom footer
+footer:
+  message: "Let’s connect and collaborate!"
+  links:
+    - label: "GitHub"
+      icon: "github"
+      url: "https://github.com/Sasseron"
+    - label: "LinkedIn"
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/claudio-sasseron"
+    - label: "Email"
+      icon: "envelope"
+      url: "mailto:your-email@example.com"

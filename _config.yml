@@ -2,10 +2,12 @@ title: Claudio Sasseron
 description: Quality and Continuous Improvement Specialist | AI & Data-Driven Process Optimization
 url: "https://sasseron.github.io"  
 baseurl: ""  
+theme: jekyll-theme-minimal
+download: true
 
-remote_theme: jekyll-theme-minimal
-plugins:
- - jekyll-remote-theme
-stylesheets:
- - /assets/styles.css
+#remote_theme: jekyll-theme-minimal
+#plugins:
+# - jekyll-remote-theme
+#stylesheets:
+# - /assets/styles.css
 

@@ -56,7 +56,3 @@ Achieved 51% reduction in machine downtime by implementing AI-driven predictive 
 📧 [Email](mailto:your-email@example.com)  
 📂 [GitHub Portfolio](https://github.com/Sasseron)  
 
-<!-- Download Button -->
-<a href="https://github.com/Sasseron/your-repo/archive/main.zip" class="download-button">Download My Portfolio</a>
-
-</div>

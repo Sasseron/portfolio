@@ -1,28 +1,63 @@
+/* General body styling */
+
 body {
-    max-width: 800; /* Reduce the overall width of the content */
-    margin: 0 auto;   /* Center the content on the page */
-    padding: 20;    /* Add some padding to the sides */
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto;    /* Center the content */
+    padding: 20px;     /* Add padding to the sides */
+    font-family: Arial, sans-serif; /* Set a clean font */
 }
 
+/* Container styling */
 .container {
-    margin-left: 50px ; /* Indent the text from the left */
-    margin-right: 50px ; /* Indent the text from the right */
+    max-width: 100%;   /* Ensure container takes full width */
+    margin-left: 50px; /* Indent from the left */
+    margin-right: 20px; /* Indent from the right */
 }
 
-/* Style headings and paragraphs for better spacing */
+/* Vertical margin line */
+.vertical-line {
+    border-left: 2px solid #0366d6; /* Blue vertical line */
+    height: 100%;                  /* Full height */
+    margin-left: 20px;             /* Space from content */
+    padding-left: 20px;            /* Space between line and text */
+}
+
+/* Download button styling */
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0366d6; /* GitHub's link color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 20px; /* Space above the button */
+}
+
+.download-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Add an icon to the download button */
+.download-button::before {
+    content: "⬇️"; /* Unicode download icon */
+    margin-right: 10px; /* Space between icon and text */
+}
+
+/* Headings and paragraphs */
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 1.5em ;
-    margin-bottom: 0.5em ;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 p {
-    margin-bottom: 1em ;
+    margin-bottom: 1em;
     line-height: 1.6;
 }
 
-/* Style links for better visibility */
+/* Links */
 a {
-    color: #0366d6; /* GitHub's link color */
+    color: #0366d6;
     text-decoration: none;
 }
 

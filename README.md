@@ -1,4 +1,3 @@
-<div class="container">
  
 Expert in Lean Six Sigma methodologies, integrating AI/ML models to deliver data-driven insights and optimize business operations. 
 Passionate about leveraging technology to drive efficiency, innovation, and sustainable growth.
@@ -25,7 +24,6 @@ Passionate about leveraging technology to drive efficiency, innovation, and sust
 ### **New Programs Engineer** – [![Ford Motor Company](https://img.shields.io/badge/Ford_Motor_Company-00274C?logo=ford&logoColor=white)](https://www.ford.com/) | *2011 – 2014*  
 - Managed global vehicle launches, ensuring on-time delivery and risk mitigation.  
 - Recognized by Ford EU for ensuring seamless production at the Germany plant.    
-</div>
 
 ---
 
@@ -58,8 +56,3 @@ Achieved 51% reduction in machine downtime by implementing AI-driven predictive 
 📧 [Email](mailto:your-email@example.com)  
 📂 [GitHub Portfolio](https://github.com/Sasseron)  
 
-
-<!-- Download Button -->
-<a href="https://github.com/Sasseron/your-repo/archive/main.zip" class="download-button">Download My Portfolio</a>
-
-</div>

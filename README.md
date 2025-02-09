@@ -1,3 +1,4 @@
+<div class="container">
  
 Expert in Lean Six Sigma methodologies, integrating AI/ML models to deliver data-driven insights and optimize business operations. 
 Passionate about leveraging technology to drive efficiency, innovation, and sustainable growth.
@@ -56,3 +57,7 @@ Achieved 51% reduction in machine downtime by implementing AI-driven predictive 
 📧 [Email](mailto:your-email@example.com)  
 📂 [GitHub Portfolio](https://github.com/Sasseron)  
 
+<!-- Download Button -->
+<a href="https://github.com/Sasseron/your-repo/archive/main.zip" class="download-button">Download My Portfolio</a>
+
+</div>

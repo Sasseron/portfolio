@@ -1,7 +1,7 @@
 body {
-    max-width: 800px; /* Reduce the overall width of the content */
+    max-width: 800; /* Reduce the overall width of the content */
     margin: 0 auto;   /* Center the content on the page */
-    padding: 20px;    /* Add some padding to the sides */
+    padding: 20;    /* Add some padding to the sides */
 }
 
 .container {

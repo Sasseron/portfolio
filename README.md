@@ -51,8 +51,7 @@ Achieved 51% reduction in machine downtime by implementing AI-driven predictive 
 
 ---
 
-## Contact & Connect  
+## 📞 Let’s Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/claudio-sasseron)  
 📧 [Email](mailto:your-email@example.com)  
 📂 [GitHub Portfolio](https://github.com/Sasseron)  
-
